@@ -1,0 +1,14 @@
+name: hello_world
+author:
+  name: Info
+  email: info@synano.com
+description: Hello World example
+endpoints:
+  custom_endpoint:
+    script: hello_world
+
+dependencies:
+  scripts:
+    hello_world:
+      runtime_name: python_library_v5.0
+      file: scripts/hello_world.py
