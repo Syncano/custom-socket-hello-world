@@ -4,7 +4,7 @@ author:
   email: info@synano.com
 description: Hello World example
 endpoints:
-  custom_endpoint:
+  hello_endpoint:
     script: hello_world
 
 dependencies:
