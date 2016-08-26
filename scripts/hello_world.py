@@ -1,14 +1,13 @@
 content = """
 <!DOCTYPE html>
 <html>
-<head>
-<title>Hello world!</title>
-</head>
+    <head>
+        <title>Hello world!</title>
+    </head>
 
-<body>
-Hello World!
-</body>
-
+    <body>
+        Hello World!
+    </body>
 </html>
 """
 
